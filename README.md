@@ -300,6 +300,15 @@ FUNCTION NavigationDialog(onNavigateToMainScreen, onExitApp)
 
 END
 
+
+SCREENSHOTS
+![HMA1_Lab1_2024 - lab-a6119850-9ac5-485b-91e4-ae86562bf8c8 northeurope cloudapp azure com_7014 - Remote Desktop Connection 2024_06_10 10_28_18](https://github.com/LATHANE-KAMOGELO/Weather-APP/assets/166804549/76b742d1-2fa3-4cd9-9176-3f8d0a679e79)
+![HMA1_Lab1_2024 - lab-a6119850-9ac5-485b-91e4-ae86562bf8c8 northeurope cloudapp azure com_7014 - Remote Desktop Connection 2024_06_10 10_28_38](https://github.com/LATHANE-KAMOGELO/Weather-APP/assets/166804549/5a1905b2-785f-4cff-a78f-8b2d80fca400)
+![HMA1_Lab1_2024 - lab-a6119850-9ac5-485b-91e4-ae86562bf8c8 northeurope cloudapp azure com_7014 - Remote Desktop Connection 2024_06_10 10_28_33](https://github.com/LATHANE-KAMOGELO/Weather-APP/assets/166804549/536940de-e938-4792-82a8-675dc9564432)
+![HMA1_Lab1_2024 - lab-a6119850-9ac5-485b-91e4-ae86562bf8c8 northeurope cloudapp azure com_7014 - Remote Desktop Connection 2024_06_10 10_28_24](https://github.com/LATHANE-KAMOGELO/Weather-APP/assets/166804549/fa2ab903-8607-47ca-ac3c-f2ebd2cd7eac)
+
+
+POWERPOINT PRESENTATION
 [IMAD25112-EXAM.pptx](https://github.com/user-attachments/files/15765055/IMAD25112-EXAM.pptx)
 
 
