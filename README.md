@@ -1,6 +1,8 @@
 # Weather-APP
 
 LATHANE KAMOGELO
+
+
 ST10273510
 
 
@@ -9,9 +11,10 @@ The purpose of the Weather App is to allow users to record and monitor the daily
 
 Explanation:
 The Weather App features a splash screen, a main screen for inputting weather data, and a detailed view screen for reviewing the recorded data. The app allows users to enter the morning and afternoon temperatures, as well as a brief note on the weather conditions, for each day of the week. It calculates the average temperature over the week and provides a detailed view of the data entered. Users can navigate between the main screen and the detailed view screen and have the option to clear the entered data.
+
+
+
 Pseudocode
-
-
 
 START
 
